@@ -1,0 +1,11 @@
+install packages such as follows:
+P1:
+P1-1
+py -m nltk.downloader popular
+pip install nltk pyttsx3
+pip install gTTS
+
+P1-2
+pip install SpeechRecognition pydub
+Convert .mp3 to .wav
+
